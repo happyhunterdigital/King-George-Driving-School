@@ -1,0 +1,6 @@
+{
+  "name": "King George Driving School",
+  "description": "Professional K53 Accredited Driving School in South Africa for Code 8, Code 10, and Code 14 training. Call 074 494 0771.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
